@@ -1,2 +1,2 @@
-# CalcMastes-C
+# CalcMaster-C
 Projeto C#
