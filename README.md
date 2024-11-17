@@ -8,7 +8,7 @@ Projeto POO<br><br>
 4- Tela Inicial ( Calculadora )
 5- Tela de Contas ( Do Usuário )
 
-1- Login<br>
+<b>1- Login</b><br>
 *TextAreas*<br>
 txtLogin
 txtPassword<br>
@@ -18,7 +18,7 @@ btnRegister
 btnLogin
 btnForgetPassword
 
-2- Cadastro<br>
+<b>2- Cadastro</b><br>
 *TextAreas*<br>
 txtRegName 
 txtRegCPF
@@ -29,7 +29,7 @@ txtRegPassword
 btnReg
 btnRegBack
 
-3- Esqueci Minha Senha<br>
+<b>3- Esqueci Minha Senha</b><br>
 *TextAreas*<br>
 txtRecName
 txtRecEmail
@@ -40,7 +40,7 @@ txtRecPassword
 btnRec
 btnRecBack
 
-4- Tela Inicial ( Calculadora )<br>
+<b>4- Tela Inicial ( Calculadora )</b><br>
 *TextAreas*<br>
 txtNum1
 txtNum2
@@ -57,7 +57,7 @@ btnClean
 btnCalcBack
 btnHistory
 
-5- Histórico de Contas ( Do Usuário )<br>
+<b>5- Histórico de Contas ( Do Usuário )</b><br>
 *TextAreas*<br>
 
 *Buttons*<br>
