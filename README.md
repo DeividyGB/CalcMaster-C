@@ -2,11 +2,11 @@
 Projeto POO<br><br>
 
 <b>*Telas*</b><br>
-1- Login
-2- Cadastro
-3- Esqueci minha senha
-4- Tela Inicial ( Calculadora )
-5- Tela de Contas ( Do Usuário )
+1- Login<br>
+2- Cadastro<br>
+3- Esqueci minha senha<br>
+4- Tela Inicial ( Calculadora )<br>
+5- Tela de Contas ( Do Usuário )<br>
 
 <b>1- Login</b><br>
 *TextAreas*<br>
