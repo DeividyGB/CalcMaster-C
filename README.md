@@ -1,7 +1,7 @@
 # CalcMaster
 Projeto POO<br><br>
 
-*Telas*<br>
+<b>*Telas*</b><br>
 1- Login
 2- Cadastro
 3- Esqueci minha senha
