@@ -1,14 +1,14 @@
 # CalcMaster
-Projeto POO<br>
+Projeto POO<br><br>
 
-<b>*Telas*</b><br>
+*Telas*<br>
+1- Login
+2- Cadastro
+3- Esqueci minha senha
+4- Tela Inicial ( Calculadora )
+5- Tela de Contas ( Do Usuário )
+
 1- Login<br>
-2- Cadastro<br>
-3- Esqueci minha senha<br>
-4- Tela Inicial ( Calculadora )<br>
-5- Tela de Contas ( Do Usuário )<br>
-
-<b>1- Login</b><br>
 *TextAreas*<br>
 txtLogin
 txtPassword<br>
@@ -18,7 +18,7 @@ btnRegister
 btnLogin
 btnForgetPassword
 
-<b>2- Cadastro</b><br>
+2- Cadastro<br>
 *TextAreas*<br>
 txtRegName 
 txtRegCPF
@@ -29,7 +29,7 @@ txtRegPassword
 btnReg
 btnRegBack
 
-<b>3- Esqueci Minha Senha</b><br>
+3- Esqueci Minha Senha<br>
 *TextAreas*<br>
 txtRecName
 txtRecEmail
@@ -40,7 +40,7 @@ txtRecPassword
 btnRec
 btnRecBack
 
-<b>4- Tela Inicial ( Calculadora )</b><br>
+4- Tela Inicial ( Calculadora )<br>
 *TextAreas*<br>
 txtNum1
 txtNum2
@@ -57,7 +57,7 @@ btnClean
 btnCalcBack
 btnHistory
 
-<b>5- Histórico de Contas ( Do Usuário )</b><br>
+5- Histórico de Contas ( Do Usuário )<br>
 *TextAreas*<br>
 
 *Buttons*<br>
