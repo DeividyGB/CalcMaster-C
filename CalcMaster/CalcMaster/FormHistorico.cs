@@ -11,7 +11,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace CalcMaster
 {
-    public partial class FormHistorico : Form
+    public partial class FormHisrotico : Form
     {
         public FormHistorico()
         {
@@ -25,6 +25,15 @@ namespace CalcMaster
 
         private void button3_Click(object sender, EventArgs e)
         {
+            try
+            {
+
+            }
+            catch (Exception ex)
+            {
+
+                throw;
+            }
             double valor1 = Convert.ToDouble(txtNum1.Text);
             double valor2 = Convert.ToDouble(txtNum2.Text);
 

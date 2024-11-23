@@ -21,5 +21,10 @@ namespace CalcMaster
         {
 
         }
+
+        private void btnRegister_Click(object sender, EventArgs e)
+        {
+            new FormCadastro();
+        }
     }
 }
