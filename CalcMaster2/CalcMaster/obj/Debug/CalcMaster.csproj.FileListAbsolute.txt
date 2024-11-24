@@ -1,0 +1,15 @@
+C:\Users\Skullius\Desktop\CalcMaster2\CalcMaster\bin\Debug\CalcMaster.exe.config
+C:\Users\Skullius\Desktop\CalcMaster2\CalcMaster\bin\Debug\CalcMaster.exe
+C:\Users\Skullius\Desktop\CalcMaster2\CalcMaster\bin\Debug\CalcMaster.pdb
+C:\Users\Skullius\Desktop\CalcMaster2\CalcMaster\obj\Debug\CalcMaster.csproj.AssemblyReference.cache
+C:\Users\Skullius\Desktop\CalcMaster2\CalcMaster\obj\Debug\CalcMaster.FormCadastro.resources
+C:\Users\Skullius\Desktop\CalcMaster2\CalcMaster\obj\Debug\CalcMaster.FormHistorico.resources
+C:\Users\Skullius\Desktop\CalcMaster2\CalcMaster\obj\Debug\CalcMaster.FormInicial.resources
+C:\Users\Skullius\Desktop\CalcMaster2\CalcMaster\obj\Debug\CalcMaster.FormLogin.resources
+C:\Users\Skullius\Desktop\CalcMaster2\CalcMaster\obj\Debug\CalcMaster.FormRecuperarSenha.resources
+C:\Users\Skullius\Desktop\CalcMaster2\CalcMaster\obj\Debug\CalcMaster.Properties.Resources.resources
+C:\Users\Skullius\Desktop\CalcMaster2\CalcMaster\obj\Debug\CalcMaster.csproj.GenerateResource.cache
+C:\Users\Skullius\Desktop\CalcMaster2\CalcMaster\obj\Debug\CalcMaster.csproj.CoreCompileInputs.cache
+C:\Users\Skullius\Desktop\CalcMaster2\CalcMaster\obj\Debug\CalcMaster.exe
+C:\Users\Skullius\Desktop\CalcMaster2\CalcMaster\obj\Debug\CalcMaster.pdb
+C:\Users\Skullius\Desktop\CalcMaster2\CalcMaster\obj\Debug\CalcMaster.FormProcessando.resources
